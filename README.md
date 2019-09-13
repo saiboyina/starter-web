@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-	i am in git training
+	i completed git training
 
 ## Purpose
 

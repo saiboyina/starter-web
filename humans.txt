@@ -3,7 +3,7 @@
 
 # TEAM
 
-	devops traing
+	"devops traing"
 
     <name> -- <role> -- <twitter>
 

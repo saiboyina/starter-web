@@ -11,5 +11,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSiS4, java
+    HTML5, CSiS3,
     jQuery, Modernizr

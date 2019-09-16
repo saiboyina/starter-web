@@ -3,7 +3,7 @@
 
 # TEAM
 
-<<<<<<< HEAD
+
 
 
     "saiboyina"
@@ -15,9 +15,9 @@
 
 	"devops traing"
 
-=======
+
 	"devops traing"
->>>>>>> changes indev
+
 
     <name> -- <role> -- <twitter>
 

@@ -9,6 +9,7 @@
     "saiboyina"
     "ffffffffffff"
 	"git"	
+<<<<<<< HEAD
 	"REBASE IN MASTER"
 	
 	"commands"
@@ -16,6 +17,8 @@
 	"devops traing"
 
 
+=======
+>>>>>>> rebase commit in master
 	"devops traing"
 
 
